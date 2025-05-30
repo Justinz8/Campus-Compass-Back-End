@@ -1,4 +1,4 @@
-# Campus Compass – Frontend
+# Campus Compass – Backend
 
 Welcome to the backend repository for the **Campus Compass** project.
 
